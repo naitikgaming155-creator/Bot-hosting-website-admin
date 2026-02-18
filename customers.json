@@ -19,5 +19,8 @@
     },
     "zryhost12": {
         "Bot host bot": "https://bot-hosting-bot-971d.onrender.com"
+    },
+    "zryfreehost": {
+        "free bot host": "https://zry-x-pro-fre-bot-hosting.onrender.com"
     }
 }
